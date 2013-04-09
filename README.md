@@ -33,4 +33,5 @@ python speech-to-text.py
 
 
 [1] - http://andrewbrobinson.com/2012/02/29/speech-recognition-using-sphinx-dont-try-this-at-home/
+
 [2] - http://cmusphinx.sourceforge.net/wiki/download/
