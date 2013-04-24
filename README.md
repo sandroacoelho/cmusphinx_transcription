@@ -7,9 +7,9 @@ On your linux terminal (Tested in Ubuntu 12.10 and Debian 6.0), type the followi
 
 1 - sudo apt-get install sphinx*
 
-2 - sudo apt-get libcdio-paranoia-dev
+2 - sudo apt-get install libcdio-paranoia-dev
 
-3 - sudo apt-get python-all-dev 
+3 - sudo apt-get install python-all-dev 
 
 4 - wget http://downloads.sourceforge.net/project/audiotools/audiotools/2.16/audiotools.2.16.tar.gz
 
