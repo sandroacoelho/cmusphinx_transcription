@@ -1,6 +1,6 @@
 FROM debian:squeeze
 
-MAINTAINER  DBpedia Spotlight Team <dbp-spotlight-developers@lists.sourceforge.net>
+MAINTAINER  Sandro A Coelho <sandroacoelho@gmail.com>
 
 RUN apt-get update && apt-get install -y \
     sphinx* \
